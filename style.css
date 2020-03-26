@@ -1,0 +1,37 @@
+body {
+  text-align: center;
+  font-family: Tahoma, sans-serif;
+}
+
+section {
+  display: inline-block;
+  padding: 40px 10px 10px 10px;
+  background-color: DarkSlateGray;
+  border-radius: 10px;
+  position: relative;
+}
+
+span {
+  display: inline-block;
+  width: 32px;
+  height: 210px;
+  background-color: white;
+  border-radius: 2px 2px 10px 10px;
+  cursor: grab;
+}
+
+span:hover {
+  background-color: ivory;
+}
+
+.sharp {
+  background-color: black;
+  height: 136px;
+  width: 20px;
+  position: absolute;
+  margin: 0px -10px;
+}
+
+.sharp:hover {
+  background-color: DimGray;
+}
