@@ -1,3 +1,3 @@
-<h1> :musical_keyboard: Piano Project 🎹 </h>
+<h1> :musical_keyboard: Piano Project 🎹 </h1>
 
-virtual piano
+Welcome to my virtual piano, enjoy!
