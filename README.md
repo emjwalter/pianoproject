@@ -1,3 +1,3 @@
-# Piano Project 🎹 :musical_keyboard:
+:musical_keyboard: # Piano Project 🎹 
 
 virtual piano
